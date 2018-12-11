@@ -1,4 +1,4 @@
-# Fiji (ImageJ)macros:
+# Fiji (ImageJ) macros:
 
 If you use this macros for scientific works, please cite:
 #
